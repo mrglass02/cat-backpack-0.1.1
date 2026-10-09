@@ -1,0 +1,12 @@
+['a_back_pack_with_a_cat_in_it'] = {
+    ['name'] = 'a_back_pack_with_a_cat_in_it',
+    ['label'] = 'Cat Backpack',
+    ['weight'] = 1000,
+    ['type'] = 'item',
+    ['image'] = 'cat_backpack.png',
+    ['unique'] = true,
+    ['useable'] = true,
+    ['shouldClose'] = true,
+    ['combinable'] = nil,
+    ['description'] = 'A cozy backpack with a cat inside.'
+},
